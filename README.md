@@ -35,7 +35,7 @@ Feel free to submit a [pull request](https://github.com/opensourcecommunity-hub/
 
 ```json
 {
-  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
+  "image": "https://user-images.githubusercontent.com/79099734/154902556-4b9e2ae2-d79b-4541-aeec-b031553b0065.png",
   "issueId": 13,
   "name": "Susmita Dey",
   "username": "Susmita-Dey"
